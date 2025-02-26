@@ -36,7 +36,8 @@ namespace ConsoleApp1
             Console.WriteLine($"Кол-во смертей: {simulator.DeadPopulation}");
             Console.WriteLine($"Кол-во заражений: {simulator.Faling}");
             Console.WriteLine($"Кол-во выздоровлений: {simulator.Recovered}");
-            if (_days + 1 != simulator.Days)
+            Console.WriteLine($"Кол-во дней: {simulator.Days}");
+            if (_days != simulator.Days)
                 Console.WriteLine($"Кол-во дней: {simulator.Days}");
         }
     }
