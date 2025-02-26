@@ -1,0 +1,14 @@
+C:\Users\vaso\OneDrive\Документы\GitHub\SimGame\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\vaso\OneDrive\Документы\GitHub\SimGame\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\vaso\OneDrive\Документы\GitHub\SimGame\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\vaso\OneDrive\Документы\GitHub\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\vaso\OneDrive\Документы\GitHub\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\vaso\OneDrive\Документы\GitHub\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\vaso\OneDrive\Документы\GitHub\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\PC\Desktop\SimGame\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\PC\Desktop\SimGame\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\PC\Desktop\SimGame\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\PC\Desktop\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\PC\Desktop\SimGame\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
